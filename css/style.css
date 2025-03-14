@@ -1,0 +1,66 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.bannercontent h1{
+    font-size: 52px;
+    font-weight: bold;
+}
+.bannercontent h1 span{
+    color: #2699FB;
+}
+.bannercontent p{
+    font-size: 24px;
+}
+.bannercontent ul{
+    list-style: none;
+    font-size: 24px;
+}
+.bannercontent ul li i{
+    color: #2699FB;
+}
+.bannercontentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+.bannercontentBtn button:first-child{
+    font-size: 24px;
+    color: white;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.bannercontentBtn button{
+    font-size: 24px;
+}
+.bannerform{
+    padding: 40px;
+}
+.bannerform button{
+    width: 100%;
+    padding: 10px;
+}
+.counter h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #2699FB;
+}
+.highlight{
+    background-color: #F7FAFF;
+}
+.highlight h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: bold;
+}
+#navbarNav ul li a{
+    font-weight: bold;
+    font-size: 24px;
+    color: #0A2134;
+}
+
+.footer li{
+    list-style-type: none;
+}
+
+.footerhead{
+    background-color: blue;
+}
